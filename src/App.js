@@ -11,7 +11,6 @@ function App() {
       setVal("");
     }
   }
-
   const Calculate=()=>
   {
     try{
